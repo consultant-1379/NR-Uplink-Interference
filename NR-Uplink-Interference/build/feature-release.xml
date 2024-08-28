@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<feature>
+    <product-id>CNA 403 3870</product-id>
+    <feature-name>NR Uplink Interference</feature-name>
+    <release>24.1</release>
+    <system-area>5g</system-area>
+    <datasource-guid>0e81554f-ed55-498d-836c-d5f8ddbcfe7d</datasource-guid>
+    <ericsson-library>true</ericsson-library>
+</feature>
